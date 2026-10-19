@@ -1,0 +1,12 @@
+{
+  "name": "sites",
+  "version": "1.0.2-remix-b.1",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "license": "Proprietary",
+  "homepage": "https://openai.com/",
+  "termsOfServiceURL": "https://openai.com/policies/chatgpt-sites-terms/"
+}

@@ -1,0 +1,3 @@
+# Preserve the original skill documents without line-ending conversion.
+*.md -text
+*.txt -text
